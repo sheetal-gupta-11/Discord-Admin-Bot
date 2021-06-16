@@ -1,0 +1,53 @@
+""""""""""""""""""""""""""""""" Moderators commands """"""""""""""""""""""""""
+
+note : u need to use '>' prefix before every command else it will not work
+
+to get the rules:
+>rule1 , >rule2 , >rule3  (ruleruleno.)
+
+to kick a member:
+>kick @name of the member 
+
+to ban a member:
+>ban @name of the member
+
+to unban a member:
+>unban @name of the member#id of the member
+
+to mute a member:
+>mute @name of the member
+
+to unmute a member:
+>unmute @name of the member
+
+to check about a member:
+>whois @member name
+
+    """""""""""""""""""""""""" Making polls """"""""""""""""""""""""""""
+{u can make poll only upto 5 choices}
+
+to make a poll of 2 option:
+>poll2 choice1 or choice2
+
+to make a poll of three option:
+>poll3 choice1 or choice2 or choice3
+
+to make a poll of 4 options:
+>poll4 choice1 or choice2 or choice3 or choice4
+
+to make a poll of 5 options:
+>poll5 choice1 or choice2 or choice3 or choice4 or choice5
+
+""""""""""""""""""""""""""""" to create a meeting """"""""""""""""""""""""""""""
+
+to make a card for meeting:
+>meeting time#date#link#topic
+
+
+""""""""""""""""""""""""""""" assigning a task to members"""""""""""""""""""""""
+
+to assign a task to different members , personally on their dms
+>todolist task @membername1 @membername2 @membername3 .......... 
+
+{you can give as many member as you want}
+
